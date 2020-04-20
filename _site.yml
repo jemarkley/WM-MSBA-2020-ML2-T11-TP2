@@ -1,0 +1,11 @@
+name: "WM-MSBA-2020-ML2-T11-TP2"
+output_dir: "docs"
+navbar:
+  title: "W&M MSBA Spring 2020, Machine Learning II, Section 1 Team 11"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Machine Learning Team 11 TP2"
+      href: ml-tp2-team11.html
+output:
+  html_document:
